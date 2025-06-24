@@ -1,5 +1,5 @@
 # SetupScripts
-- `lab.sh`: https://bit.ly/setup-lab
+- `lab.sh`: https://wlab.ddns.net
   
   ```bash
   curl -sL https://bit.ly/setup-lab | bash -C
